@@ -95,6 +95,14 @@
             }
         },
         {
+            "Key": "1761618b-a10a-4b47-b844-d52672a55dc4",
+            "Value": {
+                "id": "72ecb0f9-4a02-4a7e-9587-399acaf2123b",
+                "resourcePath": "objects\\obj_pushable\\obj_pushable.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "2ea60707-7dca-42be-afee-a52720e9e99c",
             "Value": {
                 "id": "db38df2d-feb7-4f61-b64e-e48885bb631b",
@@ -151,6 +159,22 @@
             }
         },
         {
+            "Key": "652251be-16ab-4c51-8613-95177ccedd05",
+            "Value": {
+                "id": "63d66b44-be9c-4939-8dca-150554ca42f2",
+                "resourcePath": "objects\\obj_solid_1x1\\obj_solid_1x1.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "6e417d4b-a911-4593-9a24-e1639581b897",
+            "Value": {
+                "id": "4ada7c0b-a6fb-40ae-80cc-81e153805fe9",
+                "resourcePath": "sprites\\spr_table\\spr_table.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "7b1d6bcf-6e19-43c3-a451-8520d14e8949",
             "Value": {
                 "id": "1f2c1bd7-60db-4232-8f34-9c0c1f700030",
@@ -172,6 +196,14 @@
                 "id": "01dc5a07-612d-44f9-bd87-e9f67d50c0b4",
                 "resourcePath": "sprites\\spr_nick_left\\spr_nick_left.yy",
                 "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "91cfca5c-2f8b-4245-93dc-001e286bfac1",
+            "Value": {
+                "id": "b9b9f26b-2d4d-46c7-ad5b-577b03616b46",
+                "resourcePath": "objects\\obj_table\\obj_table.yy",
+                "resourceType": "GMObject"
             }
         },
         {
@@ -204,6 +236,22 @@
                 "id": "25d22a47-df41-4c60-96bc-bdf3d4accc42",
                 "resourcePath": "options\\linux\\options_linux.yy",
                 "resourceType": "GMLinuxOptions"
+            }
+        },
+        {
+            "Key": "b219b48a-2c7e-4a80-b36b-378fb02fe0cb",
+            "Value": {
+                "id": "130602cc-a27b-4694-a9c6-61bf92420474",
+                "resourcePath": "sounds\\snd_doorbell\\snd_doorbell.yy",
+                "resourceType": "GMSound"
+            }
+        },
+        {
+            "Key": "b35b4156-ae03-4964-9255-cf355251ae11",
+            "Value": {
+                "id": "c7d364b5-1d56-450e-a043-46be15dbcf24",
+                "resourcePath": "objects\\obj_gridmgr\\obj_gridmgr.yy",
+                "resourceType": "GMObject"
             }
         },
         {
@@ -308,6 +356,14 @@
                 "id": "321127ff-97a6-4b48-af17-1652a589cb31",
                 "resourcePath": "options\\mac\\options_mac.yy",
                 "resourceType": "GMMacOptions"
+            }
+        },
+        {
+            "Key": "f42c91cd-3a4f-4a26-9f2e-175b1ed119e3",
+            "Value": {
+                "id": "cf098029-4965-4701-84d6-dae1b102311b",
+                "resourcePath": "sprites\\spr_solid_1x1\\spr_solid_1x1.yy",
+                "resourceType": "GMSprite"
             }
         },
         {

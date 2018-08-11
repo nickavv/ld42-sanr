@@ -1,2 +1,2 @@
-draw_sprite(spr_shadow, 0, x - 10, y - 5);
+draw_sprite(spr_shadow, 0, x , y - 7);
 draw_self();

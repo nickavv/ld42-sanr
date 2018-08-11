@@ -1,33 +1,33 @@
 {
-    "id": "0efced72-330d-46d1-a7fc-555b340fcf15",
+    "id": "1761618b-a10a-4b47-b844-d52672a55dc4",
     "modelName": "GMObject",
     "mvc": "1.0",
-    "name": "obj_box_1x1",
+    "name": "obj_pushable",
     "eventList": [
         {
-            "id": "a9669773-88fc-49ff-ad2b-44a512c331ab",
+            "id": "b8eda49d-9cb5-41f6-ae0f-10b0f9380d4a",
             "modelName": "GMEvent",
             "mvc": "1.0",
             "IsDnD": false,
             "collisionObjectId": "00000000-0000-0000-0000-000000000000",
             "enumb": 0,
             "eventtype": 0,
-            "m_owner": "0efced72-330d-46d1-a7fc-555b340fcf15"
+            "m_owner": "1761618b-a10a-4b47-b844-d52672a55dc4"
         },
         {
-            "id": "8401a876-54b1-49c0-9169-6c9bb86bc781",
+            "id": "5821adc2-b72f-45db-b74e-ef24c80917d5",
             "modelName": "GMEvent",
             "mvc": "1.0",
             "IsDnD": false,
             "collisionObjectId": "00000000-0000-0000-0000-000000000000",
             "enumb": 0,
             "eventtype": 3,
-            "m_owner": "0efced72-330d-46d1-a7fc-555b340fcf15"
+            "m_owner": "1761618b-a10a-4b47-b844-d52672a55dc4"
         }
     ],
     "maskSpriteId": "00000000-0000-0000-0000-000000000000",
     "overriddenProperties": null,
-    "parentObjectId": "1761618b-a10a-4b47-b844-d52672a55dc4",
+    "parentObjectId": "d4a9d3c4-a56e-43c0-8fe9-d4e8492242e1",
     "persistent": false,
     "physicsAngularDamping": 0.1,
     "physicsDensity": 0.5,
@@ -41,23 +41,8 @@
     "physicsShape": 1,
     "physicsShapePoints": null,
     "physicsStartAwake": true,
-    "properties": [
-        {
-            "id": "65bb2111-0243-4afc-b276-0d663fd4fb5a",
-            "modelName": "GMObjectProperty",
-            "mvc": "1.0",
-            "listItems": null,
-            "multiselect": false,
-            "rangeEnabled": false,
-            "rangeMax": 10,
-            "rangeMin": 0,
-            "resourceFilter": 1023,
-            "value": "obj_table",
-            "varName": "contents",
-            "varType": 5
-        }
-    ],
+    "properties": null,
     "solid": false,
-    "spriteId": "fb1bd83a-c1c0-47c0-bc3f-242973a9bf58",
+    "spriteId": "00000000-0000-0000-0000-000000000000",
     "visible": true
 }
